@@ -2,6 +2,7 @@
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
+    background-color: #dcdcdc;
 }
 .cabecera{
     display: flex;
@@ -45,7 +46,6 @@
     background-color: #dcdcdc;
     height: 25px;
     margin-bottom: 0px;
-    text-decoration-line: overline;
    
 }
 .menu li{
@@ -72,4 +72,12 @@
     margin-right: 52px;
     color: white;
     font-weight: bold;
+}
+.separador{
+    margin: 0px;
+    border: 1 solid gray;
+}
+article img{
+    height: 450px;
+    width: 100%;
 }
