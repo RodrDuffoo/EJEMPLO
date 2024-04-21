@@ -1,0 +1,75 @@
+.todo{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.cabecera{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #dcdcdc;
+    height: 70px;
+    border-bottom: 1 solid black;
+    
+}
+.logo{
+    width: 280px;
+    height: 50px;
+    padding-top: 10px;
+}
+.cabecera input{
+    width: 400px;
+    height: 30px;
+    margin-top: 15px;  
+    margin-left: 50px; 
+    padding-left: 100px;
+    border-radius: 10px;
+    
+}
+.silueta1{
+    margin-top: 15px;
+    height: 38px;
+    margin-left: 100px;
+    
+}
+.silueta2{
+    height: 34px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.menu{
+    display: flex;
+    margin-top: 0px;
+    padding-top: 10px;
+    list-style-type: none;
+    white-space: nowrap;
+    background-color: #dcdcdc;
+    height: 25px;
+    margin-bottom: 0px;
+    text-decoration-line: overline;
+   
+}
+.menu li{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 15px;
+    margin-left: 200px;
+    color: gray;
+    font-weight: bold;
+}
+.menu2{
+    list-style-type: none;
+    display: flex;
+    white-space: nowrap;
+    text-transform: uppercase;
+    background-color: green;
+    margin-top: 0px;
+    height: 30px;
+}
+.menu2 li{
+    padding-top: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-right: 52px;
+    color: white;
+    font-weight: bold;
+}
